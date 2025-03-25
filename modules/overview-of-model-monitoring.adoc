@@ -5,7 +5,7 @@
 
 [role='_abstract']
 
-To ensure that machine-learning models are transparent, fair, and reliable, data scientists can use TrustyAI in {productname-short} to monitor and assess their data science models.
+To ensure that machine learning models are transparent, fair, and reliable, data scientists can use TrustyAI in {productname-short} to monitor and assess their data science models.
 
 Data scientists can monitor their data science and machine learning models in {productname-short} for the following metrics:
 

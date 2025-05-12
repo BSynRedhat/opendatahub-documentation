@@ -3,6 +3,7 @@
 [id='enabling-trustyai-kserve-integration_{context}']
 = Enabling TrustyAI Integration with standard model deployment
 
+
 [role='_abstract']
 TrustyAI can be used with standard and advanced model deployments. 
 Standard deployment mode is based on KServe RawDeployment and advanced deployment mode is based on KServe Serverless. 
